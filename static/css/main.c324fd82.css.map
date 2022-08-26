@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c324fd82.css","mappings":"AAAA,EACE,qBACF,CAEA,KAGE,yCAA8C,CAC9C,WAAY,CAHZ,QAAS,CACT,SAGF","sources":["styles.css"],"sourcesContent":["* {\r\n  box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n  margin: 0;\r\n  padding: 0;\r\n  font-family: \"Courier New\", Courier, monospace;\r\n  height: 100%;\r\n}\r\n"],"names":[],"sourceRoot":""}
